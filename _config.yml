@@ -1,8 +1,8 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Aaron Blackman
+description: MBA & App Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "https://akblackman.github.io/devsite/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "https://akblackman.github.io/devsite/" # baseurl of site
 
 # User settings
 username: Aaron Blackman
