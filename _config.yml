@@ -1,14 +1,14 @@
 # Site settings
 title: Blackman Solutions
-description: by Aaron Blackman, MBA & App Developer
+description: Business Consulting & x-Platform App Development
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "https://akblackman.github.io/devsite/" # baseurl of site
 
 # User settings
 username: Blackman Solutions
-user_description: Business Model Expert | iOS, Android & Web App Developer.
-user_title: by Aaron Blackman, Executive MBA & App Developer
-email: aaron@blackman-solutions.com
+user_description: Business Consulting & x-Platform App Development
+user_title: Business Consulting & x-Platform App Development
+email: info@blackman-solutions.com
 github_username:  akblackman
 
 # Google-analytics
