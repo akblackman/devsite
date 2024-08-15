@@ -2480,13 +2480,14 @@ sub,sup{line-height:0}
 .footer{background:#1a222c;
  padding:10px 0;
  margin-top:100px;
+ margin-left:50px;
+ margin-right:50px;
  text-align:center;
- color:#fff}
+ color:#fff;
+ font-size:60%}
  
 .footer .love{color:red}
  
 .footer a{text-decoration:none;
  margin:0;
  color:#fff}
-
-.footer p{font-size:60%;}
