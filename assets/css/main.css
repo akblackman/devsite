@@ -2261,7 +2261,7 @@ to{-webkit-transform:rotate(359deg);
  
 .devicon-zend-plain-wordmark.colored,.devicon-zend-plain.colored{color:#68b604}
  
-body{padding:0;
+body,ul,li{padding:0;
  font-size:100%;
  line-height:1.5;
  color:#555;
